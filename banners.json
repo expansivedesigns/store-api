@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "image": "https://images.pexels.com/photos/928000/pexels-photo-928000.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "alt": "Fashion for women photo",
+        "link": "https://www.pexels.com/photo/man-wearing-black-and-red-checkered-long-sleeve-shirt-wearing-black-wayfarer-sunglasses-sitting-on-white-wooden-chair-69212",
+        "createdAt": "2024-01-31T19:42:14.241Z",
+        "updatedAt": "2024-01-31T19:42:14.241Z",
+        "publishedAt": "2024-01-31T19:46:43.471Z"
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "image": "https://images.pexels.com/photos/69212/pexels-photo-69212.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "alt": "Fashion for men photo",
+        "link": "https://www.pexels.com/photo/man-wearing-black-and-red-checkered-long-sleeve-shirt-wearing-black-wayfarer-sunglasses-sitting-on-white-wooden-chair-69212",
+        "createdAt": "2024-01-31T19:43:51.560Z",
+        "updatedAt": "2024-01-31T19:44:43.934Z",
+        "publishedAt": "2024-01-31T19:44:43.733Z"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "image": "https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "alt": "Accessories photo",
+        "link": "https://www.pexels.com/photo/low-angle-view-of-shoes-322207",
+        "createdAt": "2024-01-31T19:44:21.343Z",
+        "updatedAt": "2024-01-31T19:44:56.160Z",
+        "publishedAt": "2024-01-31T19:46:43.471Z"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}
